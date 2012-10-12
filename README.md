@@ -1,3 +1,24 @@
+# PLUGIN IS MOVING
+
+We are cleaning up sbt plugins to have similar naming schemes, APIs,
+and so forth, so the new canonical home of this plugin will be:
+https://github.com/sbt/sbt-start-script
+
+The publish location and some of the API will change a little as well.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
+# (Old README follows)
+
 This plugin allows you to generate a script `target/start` for a
 project.  The script will run the project "in-place" (without having
 to build a package first).
